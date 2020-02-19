@@ -96,7 +96,7 @@ C:\Users\Tay\Desktop\WebformApp\WingtipToys\WingtipToys\bin\Microsoft.Owin.Secur
 C:\Users\Tay\Desktop\WebformApp\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Tay\Desktop\WebformApp\WingtipToys\WingtipToys\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Tay\Desktop\WebformApp\WingtipToys\WingtipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Tay\Desktop\WebformApp\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csprojAssemblyReference.cache
 C:\Users\Tay\Desktop\WebformApp\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csproj.CopyComplete
 C:\Users\Tay\Desktop\WebformApp\WingtipToys\WingtipToys\obj\Debug\WingtipToys.dll
 C:\Users\Tay\Desktop\WebformApp\WingtipToys\WingtipToys\obj\Debug\WingtipToys.pdb
+C:\Users\Tay\Desktop\WebformApp\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csprojAssemblyReference.cache
