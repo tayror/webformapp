@@ -13,7 +13,7 @@ namespace WingtipToys
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+         
         }
 
         public IQueryable<Product> GetProducts([QueryString("id")] int? categoryId)
